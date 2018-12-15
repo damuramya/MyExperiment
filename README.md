@@ -1,2 +1,2 @@
 # MyExperiment
-ExpressJs with Vue.js
+ExpressJs with Vue.js 1. Feature
