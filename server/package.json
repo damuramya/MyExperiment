@@ -11,10 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^1.18.9",
-    "eslint": "^5.10.0"
+    
   },
-  "devDependencies": {    
+  "devDependencies": {   
+    "nodemon": "^1.18.9",
+    "eslint": "^5.10.0", 
     "eslint-config-standard": "^12.0.0",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-node": "^8.0.0",
